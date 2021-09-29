@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(252, 210, 217);
+    border: 10px solid #fff;
+    border-radius: 12px;
+}
+img{
+    margin-left: 25%;
+    border-radius: 50%;
+    border: 20px dashed rgb(255, 136, 156);
+}
+h2,h1,p{
+    text-align: center;
+    font-family:cursive;
+}
+p{
+    font-size: 20px;
+}
