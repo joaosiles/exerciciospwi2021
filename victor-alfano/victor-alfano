@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sobre euzinho</title>
+
+        <style>
+            body {
+                background-color: rgb(153, 102, 255);
+            }
+
+            h1 {
+                color: rgb(0, 0, 0);
+            }
+
+            p {
+                color: rgb(51, 216, 106);
+            }
+            a:link{
+                color: rgb(51, 216, 106)
+            }
+            a:visited{
+                color: rgb(0 ,0 ,0);
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1>Quem é Victor Alfano?</h1>
+            <p>O Victor é um menino que ama muito jogar jogos de FPS (atualmente não vem dando bala em ninguém), mas ainda assim ama ficar em call
+                do discord com os amigos mesmo que não seja jogando. 
+            </p>
+            <p>A tecnologia sempre chamou sua atenção e o interesse de saber como tudo isso funciona é um dos principais motivos
+                para ele estar fazendo esse curso, para estar onde tudo começa.
+            </p>
+            <p>
+                Mas como eu imagino que o senhor (no caso quem deve estar lendo é o professor João) vai querer ver eu usando as coisas que aprendi então
+                vamos lá.
+            </p>
+            <p>
+                Como eu tinha dito no começo gosto muito de jogar então vou deixar um link meu aqui de uma play nível pro player(ou quase.)
+            </p>
+            <a 
+                href="https://www.twitch.tv/kabtsz/clip/HedonisticTubularClipzBudStar-ka6GMyAwwmPvw8Er?filter=clips&range=all&sort=time"
+                target="_blank"
+            >Clutch do Vitão</a>
+            <br>
+            <p>
+                Eu tentei deixar mais bonito e legal minha página mas infelizmente por enquanto foi só o que consegui,
+                mas sei que vou aprender muito mais e vou lembrar dessa página pra ver como evolui, obrigado professor.
+            </p>
+<html>
