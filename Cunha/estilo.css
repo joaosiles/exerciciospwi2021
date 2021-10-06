@@ -1,0 +1,94 @@
+body{
+    background-image:url(arana.jpg); 
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 100%;
+    background-attachment: fixed;
+    opacity: 2.0;
+    
+
+  
+    
+    
+}
+
+p{
+    color:cornsilk;
+    font-size: larger;
+}
+
+h1{
+    color:darkgray;
+    text-align: center;
+}
+
+img {
+    max-width: 1080px;
+    max-height: 500px;
+    height: auto;
+    border-radius: 10%;
+    border: 20px inset cornsilk;
+    display: block;
+    margin-left:left;
+    margin-right: center;
+    float: left;
+    padding: 5px;
+    margin: 0px, 10px 10px,0;
+
+}
+
+img.valorant {
+    max-width: 500px;
+    max-height: 500px;
+    height: auto;
+    border-radius: 10%;
+    border: 20px inset white;
+    display: block;
+    margin-left:left;
+    margin-right: left;
+    float: right;
+    padding: 5px;
+    margin: 0px, 10px 10px,0;
+
+
+}
+ p.valorant {
+     text-align: center;
+     color:cornsilk;
+     font-size: larger;
+ }
+
+ h1.valorant {
+     color: black;
+     
+ }
+
+ img.Fifa {
+
+    max-width: 900px;
+    max-height: 300px;
+    height: auto;
+    border-radius: 5%;
+    border: 20px inset black;
+    display: block;
+    margin-left:left;
+    margin-right: center;
+    float: left;
+    padding: 5px;
+    margin: 0px, 10px 10px,0;
+
+ }
+  p.fifa {
+    text-align:justify;
+    color: black;
+    font-size: large;
+
+  }
+
+  h1.arana {
+    text-shadow: 0 6px 4px #33F, -3px -5px 4px #f00, 3px
+    -5px 4px #0F0
+  }
+   
+  
+     
